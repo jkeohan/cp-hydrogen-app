@@ -1,6 +1,6 @@
 export default {
-  locale: 'en-us',
-  storeDomain: 'hydrogen-preview.myshopify.com',
-  storefrontToken: '3b580e70970c4528da70c98e097c2fa0',
-  graphqlApiVersion: 'unstable',
+  locale: "en-us",
+  storeDomain: "cp-hydrogen.myshopify.com",
+  storefrontToken: "161c71a561618de03541e3f7736ece01",
+  graphqlApiVersion: "unstable"
 };
